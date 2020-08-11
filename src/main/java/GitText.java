@@ -4,23 +4,21 @@ public class GitText {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("helloGit");
-		System.out.println("¸üĞÂ1");
-		System.out.println("´´½¨·ÖÖ§");
-
-		System.out.println("Ö÷¸É");
-
-		System.out.println("·ÖÖ§Ìí¼Ó");
-		System.out.println("µÚ¶ş´ÎÌá½»Ö®Ç°¸üĞÂ");
-
-
-
 		System.out.println("æ›´æ–°1");
 		System.out.println("åˆ›å»ºåˆ†æ”¯");
 
 		System.out.println("ä¸»å¹²");
 
 		System.out.println("åˆ†æ”¯æ·»åŠ ");
-                System.out.println("åœ¨çº¿æ·»åŠ 1");
+		System.out.println("ç¬¬äºŒæ¬¡æäº¤ä¹‹å‰æ›´æ–°");
+
+
+
+		System.out.println("1");
+		System.out.println("2");
+
+
+
 
 
 	}
